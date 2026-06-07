@@ -1,0 +1,49 @@
+{
+  "salary": [
+    {
+      "id": "1780808867585",
+      "date": "2026-06-10",
+      "nextSalaryDate": "2026-07-08",
+      "amount": 76500
+    }
+  ],
+  "sideJobs": [],
+  "debts": [
+    {
+      "id": "auto_loan",
+      "name": "Автокредит",
+      "desc": "",
+      "initialAmount": 303250,
+      "currentRemain": 303250,
+      "payments": [],
+      "archived": false
+    },
+    {
+      "id": "credit_card",
+      "name": "Кредитка",
+      "desc": "",
+      "initialAmount": 0,
+      "currentRemain": 0,
+      "payments": [],
+      "archived": false
+    }
+  ],
+  "yearlyPlans": {
+    "2026": {
+      "06": {
+        "mandatory": [
+          {
+            "id": "1780808962147",
+            "date": "2026-06-11",
+            "description": "Ипотека",
+            "amount": 23000
+          }
+        ],
+        "flexible": []
+      }
+    }
+  },
+  "savings": [],
+  "free_balance": 0,
+  "reserve_now": 0
+}
